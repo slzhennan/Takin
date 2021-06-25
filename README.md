@@ -63,22 +63,22 @@ The Initiation of docker need about 10 mins because it need install necessary co
     ```
 
 after installation：
-- see [Quick Start](controllePlatform/doc/QuickStart.md)
+- see [Quick Start](takin-webapp/doc/QuickStart.md)
 - [Instruction 使用说明](https://news.shulie.io/?p=2987)
 
 # Instruction
 #### Takin Architecture
 <img src="https://raw.githubusercontent.com/shulieTech/Images/main/DaYuX_Architecture2.png" width="70%" height="70%"><br/>
-Takin consists of Agent, Controlle Platform and Surge Data. 
+Takin consists of Agent, takin-webapp and surge-data. 
 
 ## Agent
 see [Agent](https://github.com/shulieTech/LinkAgent)
 
 ## Surge Data
-see [Surge Data](data/surge-data/README.md?_blank)
+see [surge-data](takin-data/surge-data/README.md?_blank)
 
-## Control Platform
-see [Controlle Platform](controllePlatform/doc/QuickStart.md)
+## Controller Platform
+see [takin-webapp](takin-webapp/doc/QuickStart.md)
 
 # Community
 Mailing List: Mail to shulie@shulie.io<br/>

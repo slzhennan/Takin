@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/takin-data/amdb-receiver-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-data/amdb-receiver-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-biz-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-entrypoint/tro-cloud-open-entrypoint/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-entrypoint/tro-cloud-web-entrypoint/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-eventcenter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-k8s/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-amdb-accessor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-amdb-accessor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-data/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-service-adapters/tro-web-auth/tro-web-auth-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-service-adapters/tro-web-auth/tro-web-auth-default/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-service-adapters/tro-web-config/tro-web-config-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-service-adapters/tro-web-config/tro-web-config-sync-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-service-adapters/tro-web-config/tro-web-config-sync-http/tro-web-config-sync-http-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-service-adapters/tro-web-config/tro-web-config-sync-http/tro-web-config-sync-http-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-service-adapters/tro-web-config/tro-web-config-sync-zk/tro-web-config-sync-zk-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-service-adapters/tro-web-config/tro-web-config-sync-zk/tro-web-config-sync-zk-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-service-adapters/tro-web-diff/tro-web-diff-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-service-adapters/tro-web-diff/tro-web-diff-cloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro-web/tro-web-service-adapters/tro-web-diff/tro-web-diff-privatize/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro/tro-command-channel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro/tro-common/tro-beans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro/tro-common/tro-constants/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro/tro-common/tro-exception-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro/tro-common/tro-exception-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro/tro-common/tro-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro/tro-operation-log/tro-operation-log-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro/tro-server-monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/takin-webapp/tro/tro-server-monitor/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+io.shulie.tro.cloud.open.api.impl
+io.shulie.tro.cloud.open.api.impl.aop
+io.shulie.tro.cloud.open.api.impl.aop.annotation
+io.shulie.tro.cloud.open.api.impl.engine
+io.shulie.tro.cloud.open.api.impl.report
+io.shulie.tro.cloud.open.api.impl.scenemanage
+io.shulie.tro.cloud.open.api.impl.scenetask
+io.shulie.tro.cloud.open.api.impl.statistics
+io.shulie.tro.cloud.open.api.impl.util
+org.springframework.boot.autoconfigure.tro
+org.springframework.boot.autoconfigure.tro.properties

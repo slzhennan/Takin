@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tro.iml" filepath="$PROJECT_DIR$/tro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-common/tro-beans/tro-beans.iml" filepath="$PROJECT_DIR$/tro-common/tro-beans/tro-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-bom/tro-bom.iml" filepath="$PROJECT_DIR$/tro-bom/tro-bom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-command-channel/tro-command-channel.iml" filepath="$PROJECT_DIR$/tro-command-channel/tro-command-channel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-common/tro-common.iml" filepath="$PROJECT_DIR$/tro-common/tro-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-common/tro-constants/tro-constants.iml" filepath="$PROJECT_DIR$/tro-common/tro-constants/tro-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-common/tro-definition/tro-definition.iml" filepath="$PROJECT_DIR$/tro-common/tro-definition/tro-definition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-common/tro-exception-starter/tro-exception-starter.iml" filepath="$PROJECT_DIR$/tro-common/tro-exception-starter/tro-exception-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-operation-log/tro-operation-log.iml" filepath="$PROJECT_DIR$/tro-operation-log/tro-operation-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-operation-log/tro-operation-log-api/tro-operation-log-api.iml" filepath="$PROJECT_DIR$/tro-operation-log/tro-operation-log-api/tro-operation-log-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-sdk/tro-sdk.iml" filepath="$PROJECT_DIR$/tro-sdk/tro-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-server-monitor/tro-server-monitor.iml" filepath="$PROJECT_DIR$/tro-server-monitor/tro-server-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tro-common/tro-utils/tro-utils.iml" filepath="$PROJECT_DIR$/tro-common/tro-utils/tro-utils.iml" />
+    </modules>
+  </component>
+</project>

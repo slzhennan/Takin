@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.shulie.flpt:cloud-server-core:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/shulie/flpt/cloud-server-core/1.0-SNAPSHOT/cloud-server-core-1.0-20210617.083208-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/shulie/flpt/cloud-server-core/1.0-SNAPSHOT/cloud-server-core-1.0-20210617.083208-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/shulie/flpt/cloud-server-core/1.0-SNAPSHOT/cloud-server-core-1.0-20210617.083208-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

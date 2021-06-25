@@ -1,0 +1,6 @@
+io.shulie.tro.cloud.open.entrypoint.controller.engine
+io.shulie.tro.cloud.open.entrypoint.controller.file
+io.shulie.tro.cloud.open.entrypoint.controller.report
+io.shulie.tro.cloud.open.entrypoint.controller.scenemanage
+io.shulie.tro.cloud.open.entrypoint.controller.scenetask
+io.shulie.tro.cloud.open.entrypoint.convert

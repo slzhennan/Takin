@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tro-web-common" />
+        <module name="tro-web-amdb-accessor" />
+        <module name="tro-web-data" />
+        <module name="netty-remoting" />
+        <module name="amdb-app" />
+        <module name="tro-operation-log-api" />
+        <module name="tro-cloud-open-client-starter" />
+        <module name="influxdb" />
+        <module name="tro-server-monitor" />
+        <module name="tro-web-diff-privatize" />
+        <module name="tro-web-config-sync-zk-common" />
+        <module name="tro-constants" />
+        <module name="tro-web-config-sync-http-impl" />
+        <module name="tro-sdk" />
+        <module name="common" />
+        <module name="tro-web-config-sync-api" />
+        <module name="tro-web-diff-cloud" />
+        <module name="tro-utils" />
+        <module name="mysql" />
+        <module name="tro-beans" />
+        <module name="tro-web-diff-api" />
+        <module name="tro-cloud-eventcenter" />
+        <module name="tro-cloud-data" />
+        <module name="tro-command-channel" />
+        <module name="surge-deploy" />
+        <module name="tro-web-auth-default" />
+        <module name="tro-cloud-common" />
+        <module name="tro-cloud-k8s" />
+        <module name="tro-web-config-sync-http-common" />
+        <module name="runtime" />
+        <module name="tro-web-config-sync-zk-impl" />
+        <module name="tro-web-auth-api" />
+        <module name="tro-cloud-biz-service" />
+        <module name="tro-exception-starter" />
+        <module name="tro-cloud-open-api" />
+        <module name="tro-cloud-open-entrypoint" />
+        <module name="tro-cloud-web-entrypoint" />
+        <module name="clickhouse" />
+        <module name="tro-cloud-app" />
+        <module name="tro-web-app" />
+        <module name="tro-web-config-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="amdb-app" target="1.8" />
+      <module name="clickhouse" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="influxdb" target="1.8" />
+      <module name="mysql" target="1.8" />
+      <module name="netty-remoting" target="1.8" />
+      <module name="runtime" target="1.8" />
+      <module name="sink" target="1.8" />
+      <module name="suppliers" target="1.8" />
+      <module name="surge-data" target="1.8" />
+      <module name="surge-deploy" target="1.8" />
+      <module name="Takin" target="1.8" />
+      <module name="takin-data-parent" target="1.5" />
+      <module name="takin-webapp" target="1.5" />
+      <module name="tro" target="1.8" />
+      <module name="tro-beans" target="1.8" />
+      <module name="tro-bom" target="1.5" />
+      <module name="tro-cloud" target="1.8" />
+      <module name="tro-cloud-app" target="1.8" />
+      <module name="tro-cloud-biz-service" target="1.8" />
+      <module name="tro-cloud-bom" target="1.5" />
+      <module name="tro-cloud-common" target="1.8" />
+      <module name="tro-cloud-data" target="1.8" />
+      <module name="tro-cloud-entrypoint" target="1.8" />
+      <module name="tro-cloud-eventcenter" target="1.8" />
+      <module name="tro-cloud-k8s" target="1.8" />
+      <module name="tro-cloud-open" target="1.8" />
+      <module name="tro-cloud-open-api" target="1.8" />
+      <module name="tro-cloud-open-client-starter" target="1.8" />
+      <module name="tro-cloud-open-entrypoint" target="1.8" />
+      <module name="tro-cloud-web-entrypoint" target="1.8" />
+      <module name="tro-command-channel" target="1.8" />
+      <module name="tro-common" target="1.8" />
+      <module name="tro-constants" target="1.8" />
+      <module name="tro-definition" target="8" />
+      <module name="tro-exception-starter" target="1.8" />
+      <module name="tro-operation-log" target="1.8" />
+      <module name="tro-operation-log-api" target="1.8" />
+      <module name="tro-sdk" target="1.8" />
+      <module name="tro-server-monitor" target="1.8" />
+      <module name="tro-utils" target="1.8" />
+      <module name="tro-web" target="1.8" />
+      <module name="tro-web-amdb-accessor" target="1.8" />
+      <module name="tro-web-app" target="1.8" />
+      <module name="tro-web-auth" target="1.8" />
+      <module name="tro-web-auth-api" target="1.8" />
+      <module name="tro-web-auth-default" target="1.8" />
+      <module name="tro-web-bom" target="1.5" />
+      <module name="tro-web-common" target="1.8" />
+      <module name="tro-web-config" target="8" />
+      <module name="tro-web-config-common" target="8" />
+      <module name="tro-web-config-sync-api" target="8" />
+      <module name="tro-web-config-sync-http" target="1.8" />
+      <module name="tro-web-config-sync-http-common" target="1.8" />
+      <module name="tro-web-config-sync-http-impl" target="1.8" />
+      <module name="tro-web-config-sync-zk" target="8" />
+      <module name="tro-web-config-sync-zk-common" target="8" />
+      <module name="tro-web-config-sync-zk-impl" target="8" />
+      <module name="tro-web-data" target="1.8" />
+      <module name="tro-web-diff" target="1.8" />
+      <module name="tro-web-diff-api" target="1.8" />
+      <module name="tro-web-diff-cloud" target="1.8" />
+      <module name="tro-web-diff-privatize" target="1.8" />
+      <module name="tro-web-service-adapters" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="amdb-app" options="" />
+    </option>
+  </component>
+</project>

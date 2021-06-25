@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tro-exception-starter" />
+        <module name="tro-constants" />
+        <module name="tro-sdk" />
+        <module name="tro-utils" />
+        <module name="tro-operation-log-api" />
+        <module name="tro-beans" />
+        <module name="tro-server-monitor" />
+        <module name="tro-command-channel" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tro" target="1.5" />
+      <module name="tro-beans" target="1.8" />
+      <module name="tro-bom" target="1.5" />
+      <module name="tro-command-channel" target="1.8" />
+      <module name="tro-common" target="1.5" />
+      <module name="tro-constants" target="1.8" />
+      <module name="tro-definition" target="8" />
+      <module name="tro-exception-starter" target="1.8" />
+      <module name="tro-operation-log" target="1.5" />
+      <module name="tro-operation-log-api" target="1.8" />
+      <module name="tro-sdk" target="1.8" />
+      <module name="tro-server-monitor" target="1.8" />
+      <module name="tro-utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

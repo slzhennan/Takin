@@ -1,24 +1,49 @@
-### Eclipse ###
-.externalToolBuilders
-.project
-.classpath
-.settings
-
-### IntelliJ IDEA ###
-.idea
-*.iml
-
-### Jrebel File ###
-*rebel.xml.bak
-*rebel.xml
-
-### Common ###
-target
-logs
-
-### Project ###
-hadoop
-
+target/
+bpmclasses/
+*.class
+!.mvn/wrapper/maven-wrapper.jar
 .DS_Store
 
-local*.sh
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+application.pid
+hs_err_pid*
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.cache
+
+# Log file
+*.log
+logs/
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+/.idea/

@@ -1,0 +1,12 @@
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/io/shulie/tro/cloud/open/api/impl/scenetask/CloudTaskApiImpl.java
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/io/shulie/tro/cloud/open/api/impl/engine/CloudEngineApiImpl.java
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/org/springframework/boot/autoconfigure/tro/TroCloudClientAutoConfiguration.java
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/io/shulie/tro/cloud/open/api/impl/util/UrlBusinessUtil.java
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/io/shulie/tro/cloud/open/api/impl/scenemanage/CloudSceneApiImpl.java
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/io/shulie/tro/cloud/open/api/impl/CloudCommonApi.java
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/io/shulie/tro/cloud/open/api/impl/aop/annotation/ApiPointCut.java
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/io/shulie/tro/cloud/open/api/impl/CloudFileApiImpl.java
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/io/shulie/tro/cloud/open/api/impl/aop/ApiAspect.java
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/io/shulie/tro/cloud/open/api/impl/statistics/CloudPressureStatisticsApiImpl.java
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/org/springframework/boot/autoconfigure/tro/properties/TroCloudClientProperties.java
+/Users/ranghai/project/Takin/takin-webapp/tro-cloud/tro-cloud-open/tro-cloud-open-client-starter/src/main/java/io/shulie/tro/cloud/open/api/impl/report/CloudReportApiImpl.java

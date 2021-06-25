@@ -1,0 +1,16 @@
+io.shulie.tro.cloud.web.entrypoint.controller.api
+io.shulie.tro.cloud.web.entrypoint.controller.cloud
+io.shulie.tro.cloud.web.entrypoint.controller.dictionary
+io.shulie.tro.cloud.web.entrypoint.controller.engine
+io.shulie.tro.cloud.web.entrypoint.controller.file
+io.shulie.tro.cloud.web.entrypoint.controller.report
+io.shulie.tro.cloud.web.entrypoint.controller.scenemanage
+io.shulie.tro.cloud.web.entrypoint.controller.strategy
+io.shulie.tro.cloud.web.entrypoint.controller.user
+io.shulie.tro.cloud.web.entrypoint.convert
+io.shulie.tro.cloud.web.entrypoint.request.filemanage
+io.shulie.tro.cloud.web.entrypoint.request.scenemanage
+io.shulie.tro.cloud.web.entrypoint.request.webauth
+io.shulie.tro.cloud.web.entrypoint.response
+io.shulie.tro.cloud.web.entrypoint.response.scenemanage
+io.shulie.tro.cloud.web.entrypoint.response.strategy

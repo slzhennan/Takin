@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.shulie.tro:tro-web-config-common:4.4.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/shulie/tro/tro-web-config-common/4.4.0-SNAPSHOT/tro-web-config-common-4.4.0-20201009.110714-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/shulie/tro/tro-web-config-common/4.4.0-SNAPSHOT/tro-web-config-common-4.4.0-20201009.110714-7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/shulie/tro/tro-web-config-common/4.4.0-SNAPSHOT/tro-web-config-common-4.4.0-20201009.110714-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
